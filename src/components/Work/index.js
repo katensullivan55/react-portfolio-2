@@ -7,7 +7,7 @@ function Work() {
       projectLink: 'https://katensullivan55.github.io/weather-dashboard/',
       title: 'Weather Dashboard',
       description: 'HTML, CSS, & Javascript',
-      bgImage: require(`/Users/katherinesullivan/Desktop/react-portfolio/src/assets/images/projects/weather-dashboard.jpg`).default,
+      bgImage: require(`../../images/projects/weather-dashboard.jpg`).default,
       github: 'https://github.com/katensullivan55/weather-dashboard'
     },
     /* {
@@ -28,7 +28,7 @@ function Work() {
         projectLink: 'http://note-taker-kate.herokuapp.com/',
         title: 'Note Taker',
         description: 'HTML, CSS, Javascript, Node, Express',
-        bgImage: require(`/Users/katherinesullivan/Desktop/react-portfolio/src/assets/images/projects/note-taker.jpg`).default,
+        bgImage: require(`../../images/projects/note-taker.jpg`).default,
         github: 'https://github.com/katensullivan55/note-taker'
     },
     /* {

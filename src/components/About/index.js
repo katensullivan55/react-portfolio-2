@@ -1,6 +1,6 @@
 import React from 'react';
 import ContactIcons from '../ContactIcons';
-import aboutImg from '/Users/katherinesullivan/Desktop/react-portfolio/src/assets/images/cover.jpg';
+import aboutImg from '../../images/cover.jpg';
 
 
 
